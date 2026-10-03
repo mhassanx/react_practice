@@ -1,0 +1,21 @@
+.product {
+    width: 250px;
+    padding: 20px;
+    margin: 30px auto;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.product h2 {
+    margin-bottom: 10px;
+}
+
+.product h4 {
+    margin: 0 0 15px;
+}
+
+.product li {
+    list-style: none;
+    margin: 5px;
+}
